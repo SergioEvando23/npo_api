@@ -1,0 +1,22 @@
+{
+  "name": "npo",
+  "version": "1.0.0",
+  "description": "This is a game played with words. It consists of defining categories and writing words starting with a randomly defined letter. Played among friends is a game that tests your knowledge of existing words with the corresponding letter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioEvando23/npo_api.git"
+  },
+  "authors": {
+    "SergioEvando23" : "sergioevandocosta@gmail.com",
+    "EduhCosta": "eduhcosta@outlook.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioEvando23/npo_api/issues"
+  },
+  "homepage": "https://github.com/SergioEvando23/npo_api#readme"
+}
